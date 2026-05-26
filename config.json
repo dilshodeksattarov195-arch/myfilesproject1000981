@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceuave",
+        "uuid": 1025145,
+        "checksum": "llg87"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
